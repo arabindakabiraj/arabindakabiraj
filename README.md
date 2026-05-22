@@ -110,27 +110,6 @@ CGPA: **8.56 / 10**
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arbindkabiraj&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbindkabiraj&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arbindkabiraj&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## Certifications
-
-- Artificial Neural Network Internship Certification  
-- Diploma in Financial Accounting  
-
----
-
 ## Interests
 
 `Full Stack Development` • `AI/ML` • `System Design` • `Open Source`
